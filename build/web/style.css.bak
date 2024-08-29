@@ -1,0 +1,43 @@
+#image
+{
+    width:auto;
+    height:150px;
+    border: none;
+    background-color:#804000;
+}
+.menu
+{
+    width: auto;
+    height:50px;
+    
+     border: none;
+    float:right;
+    
+    margin-right: 100px;
+}
+
+ul li a
+{
+    text-decoration: none;
+      
+   
+}
+ul li{
+     float: right;
+     padding: 20px;
+     list-style: none;
+     font-family: cursive;
+     font-weight: bold;
+     font-size: 20px;
+     text-transform: uppercase;
+     text-shadow: 3px 2px red;
+}
+#content
+{
+    width:auto;
+    height: 600px;
+    border: solid black;
+     background: url(images/background.jpg);
+    background-repeat: repeat;
+    
+}
